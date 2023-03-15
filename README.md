@@ -1,7 +1,7 @@
 <div align="center">
 <h1> Hi there, my name is Sang. 👋 </h1>
 
-I'm a full-stack JavaScript developer based in 🗽 NYC 🌇.Welcome to my GitHub!
+I'm a full-stack JavaScript developer based in 🗽 NYC 🌇. Welcome to my GitHub!
 
 <p>&nbsp</p>
 
