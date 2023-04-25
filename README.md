@@ -28,7 +28,7 @@ I'm a full-stack JavaScript developer based in 🗽 NYC 🌇. Welcome to my GitH
 
 <p>&nbsp</p>
 
-[![Sang's GitHub stats](https://github-readme-stats.vercel.app/api?username=sangyeonpak)](https://github.com/sangyeonpak/github-readme-stats)
+[![Sang's GitHub stats](https://github-readme-stats.vercel.app/api?username=sangyeonpak&count_private=true)](https://github.com/sangyeonpak/github-readme-stats)
 
 <a href="http://www.github.com/sangyeonpak">
   <img src="https://streak-stats.demolab.com/?user=sangyeonpak&mode=weekly" alt="Sang's GitHub Streak" />
